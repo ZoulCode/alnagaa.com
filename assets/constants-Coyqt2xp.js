@@ -1,0 +1,1 @@
+var e=`/api/v1`,t={ar:`rtl`,en:`ltr`},n={ADMIN:`ADMIN`,VENDOR:`VENDOR`,USER:`USER`,GUEST:`GUEST`};export{n,t as r,e as t};

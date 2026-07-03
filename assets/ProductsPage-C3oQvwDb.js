@@ -1,1 +1,0 @@
-import{t as e}from"./PageComingSoon-q8cieGvt.js";import{f as t,s as n}from"./index-Bp9Ws9Q0.js";var r=n(),i=()=>{let{t:n}=t(`products`);return(0,r.jsx)(e,{title:n(`title`)})};export{i as default};

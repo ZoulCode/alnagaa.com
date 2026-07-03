@@ -1,0 +1,1 @@
+var e=(e,t,n)=>{let r=e/100;return new Intl.NumberFormat(n,{style:`currency`,currency:t}).format(r)};export{e as t};

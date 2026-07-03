@@ -1,0 +1,1 @@
+var e=[`https:`,`http:`,`mailto:`,`tel:`],t=t=>{if(typeof t!=`string`||t.trim()===``)return!1;let n=t.trim();if(n.startsWith(`/`)&&!n.startsWith(`//`))return!0;try{let t=new URL(n,window.location.origin);return e.includes(t.protocol)}catch{return!1}};export{t};

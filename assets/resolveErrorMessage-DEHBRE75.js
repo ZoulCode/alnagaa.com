@@ -1,0 +1,1 @@
+import{i as e}from"./apiClient-C_t-zw7f.js";var t=`errors.unexpected`,n=e=>e.startsWith(`VALIDATION_`)?`errors.validation.${e.slice(11).toLowerCase()}`:`errors.${e.toLowerCase()}`,r=r=>{if(!r||typeof r!=`string`)return e.t(t);let i=n(r),a=e.t(i);return a===i?e.t(t):a};export{r as t};
